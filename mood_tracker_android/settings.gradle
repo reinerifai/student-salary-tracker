@@ -1,0 +1,2 @@
+rootProject.name = "MoodTrackerApp"
+include(":app")
