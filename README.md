@@ -35,10 +35,7 @@ flutter create .
 flutter pub get
 flutter precache
 
-
-
-
 Then run offline using:
 
 flutter run -d chrome --web-renderer html
-presnting by: Reine rifai & Ghassan ternsani
+presenting by: Reine rifai & Ghassan ternsani
