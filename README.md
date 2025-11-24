@@ -1,6 +1,4 @@
 # student-salary-tracker
-Student Salary Helper
-
 A simple Flutter application that helps students calculate their monthly salary, taxes, savings, and free money. The app uses one page only and does not require any database.
 
 Features:
@@ -38,4 +36,5 @@ flutter precache
 Then run offline using:
 
 flutter run -d chrome --web-renderer html
+
 presenting by: Reine rifai & Ghassan ternsani
